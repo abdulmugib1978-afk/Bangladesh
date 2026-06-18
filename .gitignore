@@ -1,0 +1,41 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.dex
+*.class
+.classpath
+.project
+.settings/
+local.properties
+proguard/
+
+# Files for the ART/Dalvik VM
+*.dex
+*.class
+*.jar
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle cache
+.gradle
+.gradle/**
+
+# Android Studio
+*.iml
+.idea/
+*.apk
+*.ap_
+*.dex
+*.class
+.settings/
+local.properties
+proguard/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
